@@ -72,18 +72,16 @@
 			<version>4.2</version>
 		</dependency>
 		<dependency>
-			<groupId>musicbrainzws2-java</groupId>
-			<artifactId>musicbrainzws2-java</artifactId>
-			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${basedir}\lib\musicbrainzws2-java.jar</systemPath>
-		</dependency>
-		<dependency>
 			<groupId>icons</groupId>
 			<artifactId>icons</artifactId>
 			<version>1.0</version>
 			<scope>system</scope>
 			<systemPath>${basedir}\lib\icons.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>org.musicbrainz</groupId>
+			<artifactId>musicbrainzws2</artifactId>
+			<version>1.0.1</version>
 		</dependency>
 	</dependencies>
 	<build>
