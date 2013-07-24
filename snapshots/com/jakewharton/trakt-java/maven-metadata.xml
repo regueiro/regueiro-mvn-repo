@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jakewharton</groupId>
+  <artifactId>trakt-java</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130724155202</lastUpdated>
+  </versioning>
+</metadata>
